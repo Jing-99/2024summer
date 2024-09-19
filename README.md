@@ -1,1 +1,6 @@
-利用音频进行情绪判断
+利用音频进行情绪判断项目
+训练模型的代码为main.py
+模型保存在EmotionClassificationModel.h5中
+GUI.py为使用模型的代码，包含了调用模型和GUI代码
+requirement.txt中列出了项目依赖的所有Python包及其版本号
+也算是我们小组在人工智能板块的处女作了
